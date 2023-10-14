@@ -8,6 +8,7 @@
 - [Difficulty Levels](#difficulty-levels)
 - [Scoring](#scoring)
 - [Getting Started](#getting-started)
+- [TODO](#todo)
 
 ## Game Mechanics
 
