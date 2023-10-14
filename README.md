@@ -8,6 +8,7 @@
 - [Difficulty Levels](#difficulty-levels)
 - [Scoring](#scoring)
 - [Getting Started](#getting-started)
+- [Preview](#preview)
 - [TODO](#todo)
 
 ## Game Mechanics
@@ -40,6 +41,10 @@
 1. Clone the repository to your local machine.
 2. Open `index.html` in your favorite browser.
 3. Enjoy the game!
+
+## Preview
+
+Preview the live version of the game [here](mmatchgame.netlify.app)
 
 ## TODO
 
